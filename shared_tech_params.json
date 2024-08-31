@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAx": {
+            "name": "bubble",
+            "url": "//meta-q.cdn.bubble.io/f1725110465941x194524643785291650/15q6agl6j.svg"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}
